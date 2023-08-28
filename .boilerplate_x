@@ -1,0 +1,12 @@
+Sure! Here is the list of essential files for a todo app in Python, organized as a `tree -ifF` output:
+- app.py
+- config.py
+- database.py
+- forms.py
+- routes.py
+- templates/base.html
+- templates/index.html
+- templates/new.html
+- templates/edit.html
+- templates/show.html
+- utils.py
